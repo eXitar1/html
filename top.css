@@ -1,0 +1,7 @@
+.top {
+    position: static;
+    background-color: rgba(25, 241, 180, 0.87);
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
+}

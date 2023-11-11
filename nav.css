@@ -1,0 +1,15 @@
+.nav {
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    text-wrap: 10;
+    size: 23px;
+    word-spacing: 1cm;
+    nav-left: auto;
+    position: absolute;
+    top:0 ;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
