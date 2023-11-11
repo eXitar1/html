@@ -2,6 +2,7 @@
 
     text-align: right;
     color: rgba(0, 87, 122, 0.705);
+    background-color: cadetblue;
     word-spacing: 3px;
     text-decoration: dashed;
     text-decoration-thickness: 10px;
@@ -9,4 +10,5 @@
     font-size: xx-large;
     right: 0;
     box-sizing: border-box;
+
 }
